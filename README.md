@@ -1,11 +1,6 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=Welcome%20to%20my%20space!%20🌸&fontSize=40&animation=fadeIn&fontColor=ffffff" />
-
-  <br>
-
-  <img src="https://media.tenor.com/v_9L2_8UoRAAAAAC/marin-kitagawa-sono-bisque-doll-wa-koi-wo-suru.gif" alt="Marin Kitagawa" width="280" style="border-radius: 20px; border: 4px solid #ffb6c1;" />
-
   <br><br>
 
   <a href="https://www.instagram.com/kateymds/" target="_blank">
@@ -41,9 +36,9 @@
 
 ### 🎀 Um pouco sobre mim...
 
-* ✨ **Foco atual:** Estudando e me desenvolvendo como desenvolvedora!
-* ☁️ **Vibe:** Amo criar coisas fofas e funcionais.
-* 🌸 **Objetivo:** Transformar café em código e ideias em realidade!
+* ✨ **Foco atual:** Estudando e me desenvolvendo como Programadora!
+* ☁️ **Vibe:** Amo criar coisas kwaiis e funcionais.
+* 🌸 **Objetivo:** Estudar cada vez mais para ser uma otima profissional!
 
 <br>
 
