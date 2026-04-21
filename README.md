@@ -1,6 +1,11 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=Welcome%20to%20my%20space!%20🌸&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+
+  <br>
+
+  <img src="https://media.tenor.com/v_9L2_8UoRAAAAAC/marin-kitagawa-sono-bisque-doll-wa-koi-wo-suru.gif" alt="Marin Kitagawa" width="280" style="border-radius: 20px; border: 4px solid #ffb6c1;" />
+
   <br><br>
 
   <a href="https://www.instagram.com/kateymds/" target="_blank">
@@ -26,7 +31,9 @@
     </tr>
   </table>
 
-  <br>
+  <img src="https://raw.githubusercontent.com/7kateyz/7kateyz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  <br><br>
   
   <img src="https://raw.githubusercontent.com/Trinibug/Trinibug/master/assets/sh-line.gif" width="400px" />
 
@@ -36,9 +43,9 @@
 
 ### 🎀 Um pouco sobre mim...
 
-* ✨ **Foco atual:** Estudando e me desenvolvendo como Programadora!
-* ☁️ **Vibe:** Amo criar coisas kwaiis e funcionais.
-* 🌸 **Objetivo:** Estudar cada vez mais para ser uma otima profissional!
+* ✨ **Foco atual:** Estudando e me desenvolvendo como desenvolvedora!
+* ☁️ **Vibe:** Amo criar coisas fofas e funcionais.
+* 🌸 **Objetivo:** Transformar café em código e ideias em realidade!
 
 <br>
 
@@ -55,11 +62,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=7kateyz&color=ffb6c1&style=flat-square&label=VISITAS+AO+PERFIL" alt="contador de visitas" />
 </div>
-
-![Snake animation](https://raw.githubusercontent.com/7kateyz/7kateyz/output/github-contribution-grid-snake.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7kateyz/7kateyz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7kateyz/7kateyz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7kateyz/7kateyz/output/github-contribution-grid-snake.svg">
-</picture>
