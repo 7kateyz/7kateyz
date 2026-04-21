@@ -55,3 +55,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=7kateyz&color=ffb6c1&style=flat-square&label=VISITAS+AO+PERFIL" alt="contador de visitas" />
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/7kateyz/7kateyz/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7kateyz/7kateyz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7kateyz/7kateyz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7kateyz/7kateyz/output/github-contribution-grid-snake.svg">
+</picture>
