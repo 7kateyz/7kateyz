@@ -1,11 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=Welcome%20to%20my%20space!%20🌸&fontSize=40&animation=fadeIn&fontColor=ffffff" />
-
-  <br>
-
-  <img src="https://media.tenor.com/v_9L2_8UoRAAAAAC/marin-kitagawa-sono-bisque-doll-wa-koi-wo-suru.gif" alt="Marin Kitagawa" width="280" style="border-radius: 20px; border: 4px solid #ffb6c1;" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=Seja%20Bem%20Vindo%20ao%20meu%20Perfil!%20🌸&fontSize=40&animation=fadeIn&fontColor=ffffff" />
   <br><br>
 
   <a href="https://www.instagram.com/kateymds/" target="_blank">
@@ -54,7 +49,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" alt="Python" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50px" alt="MySQL" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50px" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50px" alt="JavaScript" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px" alt="C" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px" alt="CSS3" />
 </div>
 
 <br><br>
